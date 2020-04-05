@@ -1,0 +1,17 @@
+{
+	"name": "fullpagescroll",
+	"version": "1.0.0",
+	"main": "index.js",
+	"repository": "git@github.com:AmaanKulshreshtha/fullpagescroll.git",
+	"license": "MIT",
+	"dependencies": {
+		"parcel-bundler": "^1.12.4",
+		"rxjs": "^6.5.4"
+	},
+	"scripts": {
+		"dev": "parcel lib/index.html"
+	},
+	"devDependencies": {
+		"sass": "^1.26.3"
+	}
+}
